@@ -1,0 +1,24 @@
+# Apple Jacks
+
+- Crunch Coeffcient (Mush (0) <--> super crunch (10))
+    - 4
+- Sogginess coefficient (eat it in 5 seconds (0) <--> give it a good soak (10))
+    - 3
+- Milk flavorance (just milk (0) <--> pure sugar (10))
+    - 4
+- Mouth pokeyness -> How much it pokes your mouth (slider from spherical <--> jagged)
+    - 2
+- Savory (1) <--> Sweet (10) slider
+    - 6
+- Optimal Consumption hour
+    - 10:45am (A Weekend Cereal)
+- Crazy factor
+    - 2
+- Flavor tags (Added during writing)
+    - Apple, Styrofoam, Cinnamon, Multi-color, O's, 
+- Colleen Moreability
+    - 3
+- Jensen Moreability
+    - 7
+- Guest Reviewer Moreability
+- Overall Moreability
